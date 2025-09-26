@@ -1,4 +1,6 @@
 # Overview
+Slime Season Apparel is a vibrant, urban streetwear brand website that reflects the culture, creativity, and energy of Johannesburg’s street fashion scene. The site is structured as a multi-page portfolio and e-commerce showcase, combining strong visual elements with user-friendly navigation to engage customers and promote brand identity. The colors of the website align with the name and logo color limegreen, black that fits with the homepage for the background and white for the other pages to give it a bit of uniqueness. The brand shows power with the bold colors and style.
+
 
 Screenshots
 <img width="396" height="857" alt="mobile screens" src="https://github.com/user-attachments/assets/7b8234d2-d2a7-4de4-b9a1-f9a33945947b" />
@@ -6,5 +8,8 @@ Screenshots
 <img width="602" height="311" alt="Desktop Screens" src="https://github.com/user-attachments/assets/09d7b858-3ece-4452-a414-8cbb1308c146" />
 
 References
+www.istockphoto.com. (n.d.). Contact Us Stock Photos, Pictures & Royalty-Free Images - iStock. [online] Available at: https://www.istockphoto.com/photos/contact-us.
+
+‌
 
 
